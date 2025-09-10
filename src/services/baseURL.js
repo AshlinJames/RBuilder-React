@@ -1,2 +1,2 @@
-const BASEURL = "https://resume-builder-server-react.onrender.com"
+const BASEURL = "https://rbuilder-server-lbuk.onrender.com"
 export default BASEURL
